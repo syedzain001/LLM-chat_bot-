@@ -1,0 +1,4 @@
+Qno|Question Description|Answer|Max Marks
+Q1|Which is the Capital of India?|New Delhi|10
+Q2|What are Geographical Benifits of India?|India’s Strategic Location.Isolation and Connectivity.India’s UniquenessSignificance of GeographyIndia’s Economic Potential.|30
+Q3|Who is Missile Man of India?|APJ Abdul Kalam|10
